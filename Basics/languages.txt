@@ -1,0 +1,2 @@
+1. my favorite programming language is rust because it gives good and easy backend
+2. No, my most experienced programming language is c, however rust is a more efficient and more up to date version of c specified around back end work
